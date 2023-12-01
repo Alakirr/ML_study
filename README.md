@@ -18,3 +18,6 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Ниже прикладываю скриншоты:
 <img width="1509" alt="Снимок экрана 2023-12-01 в 02 10 31" src="https://github.com/Alakirr/ML_study/assets/112896028/9e8593fe-4359-4a99-8bc2-0e3e9e6c400e">
+<img width="835" alt="Снимок экрана 2023-11-30 в 23 22 51" src="https://github.com/Alakirr/ML_study/assets/112896028/1e3597ac-db57-49d2-ad3a-6a30259e63e8">
+<img width="1594" alt="Снимок экрана 2023-11-30 в 23 24 30" src="https://github.com/Alakirr/ML_study/assets/112896028/9a600217-bf61-46db-b3f2-ca93f8157848">
+
